@@ -15,4 +15,5 @@ makeServerRequest.then((result) => {
 
 makeServerRequest.catch((error) => {
   console.log(error);
-});
+}); 
+
